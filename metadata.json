@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pilsen La Perla Ultra Light - Hero Landing",
+  "description": "Hero de landing de una sola pantalla para la cerveza Pilsen La Perla Ultra Light con fotografía de producto luminosa, tarjetas de vidrio y micro-interacciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
